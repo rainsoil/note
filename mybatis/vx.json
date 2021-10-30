@@ -1,0 +1,64 @@
+{
+    "created_time": "2021-05-27T02:16:11Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "Mybatis 体系结构和工作原理(2).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "Mybatis 编程式开发(1).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "Mybatis 设计模式总结(5).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "Mybatis与Spring整合分析(4).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "MyBatis插件原理(3).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "Mybatis源码调试(6).md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-05-27T02:16:11Z",
+    "version": "1"
+}

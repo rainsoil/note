@@ -1,0 +1,289 @@
+{
+    "created_time": "2021-05-27T02:16:11Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "Spring中常用的设计对比.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "代理模式在Spring中的应用(14.3).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "手写JDK 代理模式(14.2).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之中介者模式(19).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之享元模式(13).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之代理模式(14.1).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之单例模式(4).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之原型模式(6).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之命令模式(16).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之备忘录模式(20).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之外观模式(12).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之委派模式(27).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之工厂方法模式(2).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之建造者模式(5).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "设计模式之抽象工厂模式(3).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之桥接模式(8).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之模板模式(25).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之状态模式(22).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之空对象模式(23).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之策略模式(24).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之简单工厂模式(1).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之组合模式(10).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之装饰器模式(11).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之观察者模式(21).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之解释器模式(17).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之访问者模式(26).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之责任链模式(15).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之过滤器模式(9).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之迭代器模式(18).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式之适配器模式(7).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:12Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:12Z",
+            "name": "设计模式简介.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-05-27T02:16:11Z",
+    "version": "1"
+}

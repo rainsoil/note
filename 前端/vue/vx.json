@@ -1,0 +1,22 @@
+{
+    "created_time": "2021-05-27T02:16:11Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-05-27T02:16:11Z",
+            "id": "0",
+            "modified_time": "2021-05-27T02:16:11Z",
+            "name": "vue.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "vue.assets"
+        }
+    ],
+    "id": "0",
+    "modified_time": "2021-05-27T02:16:11Z",
+    "version": "1"
+}
